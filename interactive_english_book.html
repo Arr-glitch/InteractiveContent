@@ -504,7 +504,7 @@
             async loadContent() {
                 try {
                     // Try to load from external JSON file (for GitHub deployment)
-                    const response = await fetch('./content.json');
+                    const response = await fetch('content.json');
                     if (response.ok) {
                         const data = await response.json();
                         this.chapters = data.chapters;
