@@ -1,0 +1,559 @@
+{
+  "chapters": [
+    {
+      "title": "Chapter 1: English Skills",
+      "content": {
+        "lesson": "In Chapter 1, we practice grammar, vocabulary, and reading skills.",
+        "explanation": "You will learn how to form sentences, use correct verb tenses, and understand short texts.",
+        "examples": [
+          "He plays football.",
+          "They are reading a book.",
+          "Water is important for life."
+        ]
+      },
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Choose the correct verb for this sentence: 'She ____ every morning.'",
+          "options": [
+            "walk",
+            "walked",
+            "walks",
+            "walking"
+          ],
+          "correct": 2,
+          "feedback": "'She walks' is correct for present simple tense."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "Choose the correct verb for this sentence: 'She ____ every morning.'",
+          "options": [
+            "walk",
+            "walked",
+            "walks",
+            "walking"
+          ],
+          "correct": 2,
+          "feedback": "'She walks' is correct for present simple tense."
+        },
+        {
+          "type": "fill-in-blank",
+          "question": "Fill in the blank: 'They _____ football on Sundays.'",
+          "correct": "play",
+          "feedback": "The correct verb is 'play'."
+        },
+        {
+          "type": "fill-in-blank",
+          "question": "Fill in the blank: 'They _____ football on Sundays.'",
+          "correct": "play",
+          "feedback": "The correct verb is 'play'."
+        },
+        {
+          "type": "drag-drop",
+          "question": "Arrange the words to make a correct sentence:",
+          "items": [
+            "to",
+            "goes",
+            "every",
+            "He",
+            "school",
+            "day"
+          ],
+          "correct": [
+            "He",
+            "goes",
+            "to",
+            "school",
+            "every",
+            "day"
+          ],
+          "feedback": "Correct sentence: He goes to school every day."
+        },
+        {
+          "type": "drag-drop",
+          "question": "Arrange the words to make a correct sentence:",
+          "items": [
+            "to",
+            "goes",
+            "every",
+            "He",
+            "school",
+            "day"
+          ],
+          "correct": [
+            "He",
+            "goes",
+            "to",
+            "school",
+            "every",
+            "day"
+          ],
+          "feedback": "Correct sentence: He goes to school every day."
+        },
+        {
+          "type": "reading-passage",
+          "passage": "The sun rises in the east and sets in the west. It gives us light and warmth.",
+          "question": "Where does the sun rise?",
+          "options": [
+            "North",
+            "South",
+            "East",
+            "West"
+          ],
+          "correct": 2,
+          "feedback": "The sun rises in the east."
+        },
+        {
+          "type": "fill-in-blank",
+          "question": "Based on the passage, where does the sun rise.",
+          "correct": "east",
+          "feedback": "The answer is 'east'."
+        }
+      ]
+    },
+    {
+      "title": "Chapter 2: English Skills",
+      "content": {
+        "lesson": "In Chapter 2, we practice grammar, vocabulary, and reading skills.",
+        "explanation": "You will learn how to form sentences, use correct verb tenses, and understand short texts.",
+        "examples": [
+          "He plays football.",
+          "They are reading a book.",
+          "Water is important for life."
+        ]
+      },
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Choose the correct verb for this sentence: 'She ____ every morning.'",
+          "options": [
+            "walk",
+            "walked",
+            "walks",
+            "walking"
+          ],
+          "correct": 2,
+          "feedback": "'She walks' is correct for present simple tense."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "Choose the correct verb for this sentence: 'She ____ every morning.'",
+          "options": [
+            "walk",
+            "walked",
+            "walks",
+            "walking"
+          ],
+          "correct": 2,
+          "feedback": "'She walks' is correct for present simple tense."
+        },
+        {
+          "type": "fill-in-blank",
+          "question": "Fill in the blank: 'They _____ football on Sundays.'",
+          "correct": "play",
+          "feedback": "The correct verb is 'play'."
+        },
+        {
+          "type": "fill-in-blank",
+          "question": "Fill in the blank: 'They _____ football on Sundays.'",
+          "correct": "play",
+          "feedback": "The correct verb is 'play'."
+        },
+        {
+          "type": "drag-drop",
+          "question": "Arrange the words to make a correct sentence:",
+          "items": [
+            "to",
+            "goes",
+            "every",
+            "He",
+            "school",
+            "day"
+          ],
+          "correct": [
+            "He",
+            "goes",
+            "to",
+            "school",
+            "every",
+            "day"
+          ],
+          "feedback": "Correct sentence: He goes to school every day."
+        },
+        {
+          "type": "drag-drop",
+          "question": "Arrange the words to make a correct sentence:",
+          "items": [
+            "to",
+            "goes",
+            "every",
+            "He",
+            "school",
+            "day"
+          ],
+          "correct": [
+            "He",
+            "goes",
+            "to",
+            "school",
+            "every",
+            "day"
+          ],
+          "feedback": "Correct sentence: He goes to school every day."
+        },
+        {
+          "type": "reading-passage",
+          "passage": "Dogs are loyal animals. They are often kept as pets and can be trained to do many things.",
+          "question": "What kind of animals are dogs?",
+          "options": [
+            "Wild",
+            "Loyal",
+            "Dangerous",
+            "Lazy"
+          ],
+          "correct": 1,
+          "feedback": "Dogs are loyal animals."
+        },
+        {
+          "type": "fill-in-blank",
+          "question": "Based on the passage, what kind of animals are dogs.",
+          "correct": "loyal",
+          "feedback": "The answer is 'loyal'."
+        }
+      ]
+    },
+    {
+      "title": "Chapter 3: English Skills",
+      "content": {
+        "lesson": "In Chapter 3, we practice grammar, vocabulary, and reading skills.",
+        "explanation": "You will learn how to form sentences, use correct verb tenses, and understand short texts.",
+        "examples": [
+          "He plays football.",
+          "They are reading a book.",
+          "Water is important for life."
+        ]
+      },
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Choose the correct verb for this sentence: 'She ____ every morning.'",
+          "options": [
+            "walk",
+            "walked",
+            "walks",
+            "walking"
+          ],
+          "correct": 2,
+          "feedback": "'She walks' is correct for present simple tense."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "Choose the correct verb for this sentence: 'She ____ every morning.'",
+          "options": [
+            "walk",
+            "walked",
+            "walks",
+            "walking"
+          ],
+          "correct": 2,
+          "feedback": "'She walks' is correct for present simple tense."
+        },
+        {
+          "type": "fill-in-blank",
+          "question": "Fill in the blank: 'They _____ football on Sundays.'",
+          "correct": "play",
+          "feedback": "The correct verb is 'play'."
+        },
+        {
+          "type": "fill-in-blank",
+          "question": "Fill in the blank: 'They _____ football on Sundays.'",
+          "correct": "play",
+          "feedback": "The correct verb is 'play'."
+        },
+        {
+          "type": "drag-drop",
+          "question": "Arrange the words to make a correct sentence:",
+          "items": [
+            "to",
+            "goes",
+            "every",
+            "He",
+            "school",
+            "day"
+          ],
+          "correct": [
+            "He",
+            "goes",
+            "to",
+            "school",
+            "every",
+            "day"
+          ],
+          "feedback": "Correct sentence: He goes to school every day."
+        },
+        {
+          "type": "drag-drop",
+          "question": "Arrange the words to make a correct sentence:",
+          "items": [
+            "to",
+            "goes",
+            "every",
+            "He",
+            "school",
+            "day"
+          ],
+          "correct": [
+            "He",
+            "goes",
+            "to",
+            "school",
+            "every",
+            "day"
+          ],
+          "feedback": "Correct sentence: He goes to school every day."
+        },
+        {
+          "type": "reading-passage",
+          "passage": "Water is essential for life. People, animals, and plants need water to survive.",
+          "question": "Why is water important?",
+          "options": [
+            "For cleaning",
+            "For food",
+            "For life",
+            "For travel"
+          ],
+          "correct": 2,
+          "feedback": "Water is essential for life."
+        },
+        {
+          "type": "fill-in-blank",
+          "question": "Based on the passage, why is water important.",
+          "correct": "for life",
+          "feedback": "The answer is 'for life'."
+        }
+      ]
+    },
+    {
+      "title": "Chapter 4: English Skills",
+      "content": {
+        "lesson": "In Chapter 4, we practice grammar, vocabulary, and reading skills.",
+        "explanation": "You will learn how to form sentences, use correct verb tenses, and understand short texts.",
+        "examples": [
+          "He plays football.",
+          "They are reading a book.",
+          "Water is important for life."
+        ]
+      },
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Choose the correct verb for this sentence: 'She ____ every morning.'",
+          "options": [
+            "walk",
+            "walked",
+            "walks",
+            "walking"
+          ],
+          "correct": 2,
+          "feedback": "'She walks' is correct for present simple tense."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "Choose the correct verb for this sentence: 'She ____ every morning.'",
+          "options": [
+            "walk",
+            "walked",
+            "walks",
+            "walking"
+          ],
+          "correct": 2,
+          "feedback": "'She walks' is correct for present simple tense."
+        },
+        {
+          "type": "fill-in-blank",
+          "question": "Fill in the blank: 'They _____ football on Sundays.'",
+          "correct": "play",
+          "feedback": "The correct verb is 'play'."
+        },
+        {
+          "type": "fill-in-blank",
+          "question": "Fill in the blank: 'They _____ football on Sundays.'",
+          "correct": "play",
+          "feedback": "The correct verb is 'play'."
+        },
+        {
+          "type": "drag-drop",
+          "question": "Arrange the words to make a correct sentence:",
+          "items": [
+            "to",
+            "goes",
+            "every",
+            "He",
+            "school",
+            "day"
+          ],
+          "correct": [
+            "He",
+            "goes",
+            "to",
+            "school",
+            "every",
+            "day"
+          ],
+          "feedback": "Correct sentence: He goes to school every day."
+        },
+        {
+          "type": "drag-drop",
+          "question": "Arrange the words to make a correct sentence:",
+          "items": [
+            "to",
+            "goes",
+            "every",
+            "He",
+            "school",
+            "day"
+          ],
+          "correct": [
+            "He",
+            "goes",
+            "to",
+            "school",
+            "every",
+            "day"
+          ],
+          "feedback": "Correct sentence: He goes to school every day."
+        },
+        {
+          "type": "reading-passage",
+          "passage": "The library is a quiet place where people go to read books and study.",
+          "question": "What do people do in the library?",
+          "options": [
+            "Talk",
+            "Play",
+            "Read",
+            "Eat"
+          ],
+          "correct": 2,
+          "feedback": "People go to the library to read."
+        },
+        {
+          "type": "fill-in-blank",
+          "question": "Based on the passage, what do people do in the library.",
+          "correct": "read",
+          "feedback": "The answer is 'read'."
+        }
+      ]
+    },
+    {
+      "title": "Chapter 5: English Skills",
+      "content": {
+        "lesson": "In Chapter 5, we practice grammar, vocabulary, and reading skills.",
+        "explanation": "You will learn how to form sentences, use correct verb tenses, and understand short texts.",
+        "examples": [
+          "He plays football.",
+          "They are reading a book.",
+          "Water is important for life."
+        ]
+      },
+      "questions": [
+        {
+          "type": "multiple-choice",
+          "question": "Choose the correct verb for this sentence: 'She ____ every morning.'",
+          "options": [
+            "walk",
+            "walked",
+            "walks",
+            "walking"
+          ],
+          "correct": 2,
+          "feedback": "'She walks' is correct for present simple tense."
+        },
+        {
+          "type": "multiple-choice",
+          "question": "Choose the correct verb for this sentence: 'She ____ every morning.'",
+          "options": [
+            "walk",
+            "walked",
+            "walks",
+            "walking"
+          ],
+          "correct": 2,
+          "feedback": "'She walks' is correct for present simple tense."
+        },
+        {
+          "type": "fill-in-blank",
+          "question": "Fill in the blank: 'They _____ football on Sundays.'",
+          "correct": "play",
+          "feedback": "The correct verb is 'play'."
+        },
+        {
+          "type": "fill-in-blank",
+          "question": "Fill in the blank: 'They _____ football on Sundays.'",
+          "correct": "play",
+          "feedback": "The correct verb is 'play'."
+        },
+        {
+          "type": "drag-drop",
+          "question": "Arrange the words to make a correct sentence:",
+          "items": [
+            "to",
+            "goes",
+            "every",
+            "He",
+            "school",
+            "day"
+          ],
+          "correct": [
+            "He",
+            "goes",
+            "to",
+            "school",
+            "every",
+            "day"
+          ],
+          "feedback": "Correct sentence: He goes to school every day."
+        },
+        {
+          "type": "drag-drop",
+          "question": "Arrange the words to make a correct sentence:",
+          "items": [
+            "to",
+            "goes",
+            "every",
+            "He",
+            "school",
+            "day"
+          ],
+          "correct": [
+            "He",
+            "goes",
+            "to",
+            "school",
+            "every",
+            "day"
+          ],
+          "feedback": "Correct sentence: He goes to school every day."
+        },
+        {
+          "type": "reading-passage",
+          "passage": "Bananas are yellow fruits. They are sweet and healthy to eat.",
+          "question": "What color are bananas?",
+          "options": [
+            "Red",
+            "Green",
+            "Yellow",
+            "Blue"
+          ],
+          "correct": 2,
+          "feedback": "Bananas are yellow fruits."
+        },
+        {
+          "type": "fill-in-blank",
+          "question": "Based on the passage, what color are bananas.",
+          "correct": "yellow",
+          "feedback": "The answer is 'yellow'."
+        }
+      ]
+    }
+  ]
+}
